@@ -1,16 +1,16 @@
-## Hi there 👋
+Hola soy José Quintero te dejo un poco de mis habilidades como tecnologo de la universidad distrital en la carrera de sistematizacion de datos.
 
-<!--
-**JoseDavidQ/JoseDavidQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con experiencia en la construcción de soluciones web y móviles, aplicando principios sólidos de ingeniería de software para garantizar escalabilidad, mantenibilidad y eficiencia en cada sistema.
 
-Here are some ideas to get you started:
+Manejo de múltiples lenguajes de programación como Java, JavaScript, TypeScript, PHP y C, así como sus respectivos frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conocimientos en bases de datos relacionales y no relacionales, incluyendo el diseño, modelado, optimización y gestión de la información.
+
+Desarrollo de aplicaciones móviles nativas con Kotlin y gestión de backend en tiempo real utilizando Firebase.
+
+Experiencia en entornos de computación en la nube con Azure, implementación de servicios, despliegue de aplicaciones y control de recursos.
+
+Aplicación de pruebas y buenas prácticas en el ciclo de desarrollo para asegurar la calidad y robustez del software.
+
+Experiencia en contenedorización de aplicaciones mediante Docker, facilitando entornos portables, reproducibles y escalables.
+
