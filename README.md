@@ -4,19 +4,27 @@ Soy Tecnólogo en Sistematización de Datos de la Universidad Distrital, con enf
 
 Me desempeño como Desarrollador Full Stack, participando en la construcción de aplicaciones web y móviles, aplicando principios sólidos de ingeniería de software para garantizar la calidad, mantenibilidad y rendimiento de cada sistema.
 
-🧠 Skills & Experience
-💻 Desarrollo Full Stack con múltiples tecnologías
-⚙️ Manejo de lenguajes como Java, JavaScript, TypeScript, PHP y C
-🗄️ Diseño y modelado de bases de datos relacionales y no relacionales
-📱 Desarrollo de aplicaciones móviles nativas con Kotlin
-🔥 Backend en tiempo real con Firebase
-☁️ Experiencia en servicios cloud con Azure
-🧪 Aplicación de pruebas y buenas prácticas en el ciclo de desarrollo
-🐳 Contenerización de aplicaciones usando Docker
+-🧠 Skills & Experience
+
+-💻 Desarrollo Full Stack con múltiples tecnologías
+
+-⚙️ Manejo de lenguajes como Java, JavaScript, TypeScript, PHP y C
+
+-🗄️ Diseño y modelado de bases de datos relacionales y no relacionales
+
+-📱 Desarrollo de aplicaciones móviles nativas con Kotlin
+
+-🔥 Backend en tiempo real con Firebase
+
+-☁️ Experiencia en servicios cloud con Azure
+
+-🧪 Aplicación de pruebas y buenas prácticas en el ciclo de desarrollo
+
+-🐳 Contenerización de aplicaciones usando Docker
 
 ## 🛠️ Technologies
 
-<p  align="center">
+<p align="center">
 
   ## Lenguajes
 
