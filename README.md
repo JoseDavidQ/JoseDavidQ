@@ -1,4 +1,5 @@
 About me
+
 Soy Tecnólogo en Sistematización de Datos de la Universidad Distrital, con enfoque en el desarrollo de soluciones tecnológicas robustas, escalables y eficientes.
 
 Me desempeño como Desarrollador Full Stack, participando en la construcción de aplicaciones web y móviles, aplicando principios sólidos de ingeniería de software para garantizar la calidad, mantenibilidad y rendimiento de cada sistema.
